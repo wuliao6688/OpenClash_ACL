@@ -3,6 +3,7 @@
 # 数量：406条
 
 # DIY
+DOMAIN-SUFFIX,workers.dev
 DOMAIN-KEYWORD,hyperliquid
 DOMAIN-KEYWORD,tradingview
 
@@ -11,8 +12,6 @@ DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 
 # AI
-DOMAIN-KEYWORD,hyperliquid
-DOMAIN-KEYWORD,tradingview
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
