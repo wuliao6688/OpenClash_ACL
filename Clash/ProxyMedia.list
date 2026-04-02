@@ -3,8 +3,8 @@
 # 数量：406条
 
 # DIY
-DOMAIN-SUFFIX,hyperliquid.xyz
-DOMAIN-SUFFIX,tradingview.com
+DOMAIN-KEYWORD,hyperliquid
+DOMAIN-KEYWORD,tradingview
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
